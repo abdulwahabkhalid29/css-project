@@ -1,0 +1,11 @@
+p.a{
+    width: 900px;
+    margin: auto;
+    border: solid 3px green;
+    padding-left: 300px;
+}
+p{
+    max-width: 500px;
+    margin: auto;
+    border: green solid 3px;
+}

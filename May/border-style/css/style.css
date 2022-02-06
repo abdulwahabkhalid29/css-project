@@ -1,0 +1,33 @@
+p.dotted{
+    border:4px dotted green;    
+}
+p.dashed{
+    border:4px dashed yellow; 
+}
+p.solid{
+     border: 4px solid blue; 
+}
+p.double{ 
+    border:4px double red; 
+}
+p.groove{ 
+    border:4px groove pink; 
+}
+p.ridge{ 
+    border:4px ridge lightgrey; 
+}
+p.inset{ 
+    border:4px inset goldenrod; 
+}
+p.outset{ 
+    border:4px outset #006f8b; 
+}
+p.none{ 
+    border:4px none rgb(33, 42, 15); 
+}
+p.hidden{ 
+    border:4px hidden rgb(11, 131, 95); 
+}
+p.mix{ 
+    border:4px mixed rgb(255, 157, 0); 
+}

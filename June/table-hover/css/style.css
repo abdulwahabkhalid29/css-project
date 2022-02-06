@@ -1,0 +1,22 @@
+table,td,th{
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding-right: 525px;
+    vertical-align: bottom;
+    border-bottom: 1px solid black;
+}
+td{
+    text-align: left;
+    padding: 20px;
+}
+tr:nth-child(odd){
+background-color: lightgray;
+}
+tr:hover{
+    background-color: lightgray;
+}
+th{
+    background-color: green;
+    font-size: 30px;
+    color: white;
+}

@@ -1,0 +1,12 @@
+h1{
+    outline-style: groove;
+    outline-width: 5px;
+    outline-color: blueviolet;
+    outline-offset: 5px;
+}
+p {
+    text-align: center;
+    border: 2px solid hotpink;
+    outline: brown solid 10px;
+    margin: auto;  
+}

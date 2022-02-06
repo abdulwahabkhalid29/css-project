@@ -1,0 +1,17 @@
+div{
+    border: 1px solid purple;
+    padding: 5px;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: blue;
+}
+p{
+    text-align: justify;
+    letter-spacing: 3px;
+}
+a{
+    text-decoration: none;
+    color: brown;
+}
